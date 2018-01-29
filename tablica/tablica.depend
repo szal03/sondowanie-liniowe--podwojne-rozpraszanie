@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511948368 source:c:\users\alice\source\repos\tablica\èrÛd≥o.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<ctime>
+

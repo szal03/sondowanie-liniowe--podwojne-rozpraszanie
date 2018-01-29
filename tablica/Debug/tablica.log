@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\alice\source\repos\tablica\źródło.cpp(39): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\alice\source\repos\tablica\źródło.cpp(40): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\alice\source\repos\tablica\źródło.cpp(105): warning C4715: "znajdz”: niewszystkie ścieżki kodu zwracają wartość
+  tablica.vcxproj -> C:\Users\Alice\source\repos\tablica\Debug\tablica.exe

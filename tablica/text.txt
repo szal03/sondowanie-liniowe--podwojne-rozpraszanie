@@ -1,0 +1,15 @@
+tablica
+srednia wstawiania 631
+srednia szukania 10064
+-----------------------
+tablica 9k
+srednia wstawiania 1247
+srednia szukania 10731
+-----------------------
+tablica 7k
+srednia wstawiania 6733
+srednia szukania 6754
+-----------------------
+tablica 10k
+srednia wstawiania 9678
+srednie szukanie 9468
